@@ -1,2 +1,2 @@
-# Code-Claus-ToDo-list
-Code Clause Project - To do list
+# CodeClause-ToDo-list
+CodeClause Project - To do list
