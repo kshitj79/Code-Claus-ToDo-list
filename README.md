@@ -1,2 +1,2 @@
-# CodeClause-ToDo-list
-CodeClause Project - To do list
+# CodeClause-Customer-Segmentation-using-K-Means-Clustering
+Customer-Segmentation-using-K-Means-Clustering
